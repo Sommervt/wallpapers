@@ -4,7 +4,7 @@ This repository contains wallpapers that I find on the web.
 
 I mainly use them on Linux, but they can obviously be used on Windows as well.
 ## Preview
-[![Watch the video](https://img.youtube.com/vi/rF83Cq8vJ10/0.jpg)](https://youtu.be/rF83Cq8vJ10)
+https://github.com/Sommervt/wallpapers/raw/refs/heads/main/dark/celestial-veil.3840x2160.mp4
 ## Clone this repository
 
 ```bash
