@@ -1,4 +1,4 @@
-8# Wallpapers Collection
+# Wallpapers Collection
 
 This repository contains wallpapers that I find on the web.
 
